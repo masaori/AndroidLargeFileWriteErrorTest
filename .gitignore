@@ -1,0 +1,55 @@
+# ---------------[ Unity generated ]------------------ #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+UnityGenerated/
+  
+# ----[ Visual Studio / MonoDevelop generated ]------- #
+  
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.vs/
+  
+# -------------[ OS generated ]------------------------ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+ 
+# -------------[ Build ]------------------------ #
+*.apk
+*.ipa
+*.pdb
+/ios_build
+
+# -------------[ rubstone ] -------------------- #
+/vendor/rubstone
+
+
+Assets/Fabric/DependencyGraph.json*
+Assets/Plugins/Android/fabric/res/values/strings.xml*
+
+CSharp60Support/compilation.log
+
+Assets/StreamingAssets/crashlytics-build.properties*
+
+
+
+# -------------[ xcode ] ----------------------- #
+xcuserdata/
+
+
+# other
+Assets/EasyMovieTexture/FFmpeg.AutoGen/FFmpeg.AutoGen.csproj.meta
